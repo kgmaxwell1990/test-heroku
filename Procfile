@@ -1,1 +1,1 @@
-web: gunicorn foobar.wgsi:application
+web: gunicorn foobar.wsgi:application
